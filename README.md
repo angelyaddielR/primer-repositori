@@ -1,3 +1,3 @@
 # Primer-repositori
 ## El meu document 
-Pots descarregar el meu document  aquí: [el-meu-document.pdf](/html.pdf)
+Pots descarregar el meu document  aquí: [Documento](/html.pdf)
